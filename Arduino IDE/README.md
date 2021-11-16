@@ -1,5 +1,6 @@
-Programming the NodeMCU using Arduino IDE
+# Programming the NodeMCU using Arduino IDE
 
+## Setup the software
 - Install the latest [Arduino ide](https://www.arduino.cc/en/software)
   > Only download the suitable Arduino IDE for your computer/laptop. Do not download the Experimental Software.
 
