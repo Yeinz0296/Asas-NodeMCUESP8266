@@ -31,14 +31,13 @@
     - 10 GPIO, every GPIO can be PWM, I2C, 1-wire
     - PCB antenna
 
-Documents:
 
+## Documents:
 [Schematic & PCB, Source Code, API Documents](https://github.com/nodemcu).
 CH34X driver (Please ensure the board is plug in to computer USB port during driver installation)
-- Windows (V3.5 Mar2019)
-- Mac OS (V1.5 Mar2019)
-- Linux (V1.5 Mar2019) (Normally is readily installed)
-- CH34X Driver - Get the latest driver from factory
-
-Getting Started with NodeMCU V3 by sho8c1rkut
-Getting Started with NodeMCU V3, Arduino ecosystem and PlatformIO IDE by Danila Loginov
+- [CH34X Driver - Get the latest driver from factory](http://www.wch.cn/downloads/CH341SER_ZIP.html)
+```
+  > For windows use CH341SER.EXE
+  > For Linux use CH341SER_LINUX.ZIP
+  > For MacOS use CH341SER_MAC.ZIP
+```
