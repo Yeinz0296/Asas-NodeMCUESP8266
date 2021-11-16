@@ -13,3 +13,11 @@ Programming the NodeMCU using Arduino IDE
   7. Then install ESP8266 boards. 
   8. After complete installation. 
   9. You will see the INSTALLED label on ESP8266 boards.
+
+- CH34X driver (Please ensure the board is plug in to computer USB port during driver installation)
+  - [CH34X Driver - Get the latest driver from factory](http://www.wch.cn/downloads/CH341SER_ZIP.html)  
+  ```
+    > For windows use CH341SER.EXE
+    > For Linux use CH341SER_LINUX.ZIP
+    > For MacOS use CH341SER_MAC.ZIP
+  ```
