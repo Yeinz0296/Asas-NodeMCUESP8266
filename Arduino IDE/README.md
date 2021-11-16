@@ -2,7 +2,7 @@
 
 ## Setup the software
 - Install the latest [Arduino ide](https://www.arduino.cc/en/software)
-  > Only download the suitable Arduino IDE for your computer/laptop. Do not download the Experimental Software.
+  > Only download the suitable Arduino IDE for your computer/laptop. **Do not download the Experimental Software.**
 
 - Download ESP8266 Board:
   1. To do this copy the following code and follow the steps below: http://arduino.esp8266.com/stable/package_esp8266com_index.json
