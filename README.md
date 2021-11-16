@@ -1,4 +1,6 @@
 # Beginner Guide NodeMCU ESP8266 
+![NodeMCU ESP8266](https://github.com/Yeinz0296/Asas-NodeMCUESP8266/blob/main/Image/NodeMCU%20V3%20Lolin%20(1)-800x800.jpg?raw=true)
+> NodeMCU Lua V3 ESP8266 WIFI with CH340C
 
 **This is the famous NodeMCU which is based on ESP8266 WiFi SoC. This is version 3 and it is based on ESP-12E (An ESP8266 based WiFi module). NodeMCU is also an open-source firmware and development kit that helps you to prototype your IoT(Internet of Things) product within a few LUA script lines, and of course you can always program it with Arduino IDE.**
 
@@ -23,6 +25,7 @@
     - 3.3V via 3.3V pin
     - 5.0V via Vin or USB
 
+![Base Board for NodeMCU V3](https://github.com/Yeinz0296/Asas-NodeMCUESP8266/blob/main/Image/BB-NMCU-BASE(5).jpg?raw=true)
 
 ## Specifications:
   - The Development Kit based on ESP8266, integates GPIO, PWM, IIC, 1-Wire and ADC all in one board.
