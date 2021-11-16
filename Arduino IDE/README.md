@@ -22,3 +22,24 @@
     > For Linux use CH341SER_LINUX.ZIP
     > For MacOS use CH341SER_MAC.ZIP
   ```
+## Exercise
+
+**Digital OUTPUT**
+1. Blinking LED
+2. Running LED
+3. Multiple LED
+7. RGB LED
+8. Melodies
+
+**Analog OUTPUT**
+1. Brightness Control
+2. RGB Colour Mixing
+
+**Digital INPUT**
+1. Button
+
+**Analog INPUT**
+1. LDR
+2. Temperature Sensor (LM35)
+3. DHT11/DHT22
+4. Ultrasonic
