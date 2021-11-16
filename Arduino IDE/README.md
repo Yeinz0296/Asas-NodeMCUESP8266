@@ -25,7 +25,7 @@
 ## Exercise
 
 **Digital OUTPUT**
-1. Blinking LED
+1. [Blinking LED](https://github.com/Yeinz0296/Asas-NodeMCUESP8266/tree/main/Arduino%20IDE/Blinking%20LED)
 2. Running LED
 3. Multiple LED
 7. RGB LED
